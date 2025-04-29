@@ -27,7 +27,7 @@ A **Vue.js** project that manages the **registration** and **login** process for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chhrahul/propertyprosmarketing.git
+   git clone https://github.com/jaswalanita53/propertyprosmarketing.git
    ```
 
 2. Install dependencies:
